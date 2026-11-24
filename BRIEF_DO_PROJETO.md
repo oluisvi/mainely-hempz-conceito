@@ -20,5 +20,7 @@ Uma vitrine editorial leve para destacar uma peça real, explicar que arte e joi
 - A resposta do Messenger é cordial, mas fecha a conversa sem pergunta comercial. A proposta deve ser opcional, curta e sem pressão.
 
 ## Estado
-- Protótipo e prancha: em criação nesta entrega.
-- Proposta: aguardar protótipo publicado antes de enviar.
+- Protótipo e prancha: publicados em https://oluisvi.github.io/mainely-hempz-conceito/ e https://oluisvi.github.io/mainely-hempz-conceito/arte/prancha.html; GitHub Pages retornou `built` e ambos os URLs responderam HTTP 200 em 24/11/2026.
+- Repositório: https://github.com/oluisvi/mainely-hempz-conceito.
+- Proposta: enviada pelo Messenger às 19:55 BRT em 24/11/2026. A interface confirmou “Mensagem enviada”; entrega e leitura não são confirmadas.
+- Texto: “Thanks for the reply. I made a small, optional concept inspired by the artwork on your page, with Facebook kept as the contact point and the focus on local customers. It’s just a visual preview—not a live catalog—and the piece’s current availability would still be confirmed with you. Preview: https://oluisvi.github.io/mainely-hempz-conceito/ Board: https://oluisvi.github.io/mainely-hempz-conceito/arte/prancha.html”
